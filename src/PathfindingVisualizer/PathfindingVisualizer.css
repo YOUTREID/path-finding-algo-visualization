@@ -1,0 +1,13 @@
+.selector {
+  position: absolute;
+  left: 150px;
+  margin: -40px 0px 0px 0px
+}
+
+.button {
+  margin: 10px 0px -40px 1000px;
+}
+
+.grid {
+  margin: 60px 0 0;
+}
